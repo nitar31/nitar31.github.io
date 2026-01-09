@@ -1,31 +1,37 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio Website
 
+This repository contains the source files for my personal portfolio website.
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+## About
+I am a Master’s student in Computer Science with a concentration in Applied Artificial Intelligence at the University of Ottawa. My interests include machine learning, reinforcement learning, large language models, and ethical AI.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+The portfolio highlights selected academic and software projects, including:
+- A reinforcement learning–based Wordle solver
+- The RaDoTech health device simulation project
 
-(* = not included)
+## Project Structure
+/
+├── index.html          # Main landing page
+├── elements.html       # Template elements (HTML5 UP)
+├── generic.html        # Generic template page
+├── assets/
+│   ├── css/            # Stylesheets
+│   ├── js/             # JavaScript files
+│   ├── sass/           # SASS source files
+│   ├── webfonts/       # Icon fonts
+│   └── Male_Resume.pdf # Resume
+├── images/             # Images used on the website
+├── LICENSE.txt
+└── README.md
 
-AJ
-aj@lkn.io | @ajlkn
+## Technologies Used
+- HTML5
+- CSS3 / SASS
+- JavaScript
+- HTML5 UP (Stellar template)
 
+## Live Website
+https://nitar31.github.io
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## License
+This website is built using the Stellar template by HTML5 UP and is licensed under the Creative Commons Attribution 3.0 License.
